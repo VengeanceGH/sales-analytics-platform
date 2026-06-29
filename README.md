@@ -12,6 +12,11 @@ Generates and analyzes synthetic sales data, answering key business questions ab
 ## 🎯 Key Insight
 Monitor is both the highest revenue and highest unit-sales product. December showed the strongest monthly revenue, suggesting strong seasonal demand requiring careful stock planning.
 
+## 📈 Visualizations
+![Revenue by Product](revenue_by_product.png)
+![Revenue by Region](revenue_by_region.png)
+![Monthly Revenue Trend](monthly_revenue_trend.png)
+
 ## 🚀 Run it locally
 \`\`\`
 git clone [repo-url]
