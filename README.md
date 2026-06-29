@@ -2,8 +2,6 @@
 
 A complete sales analytics dashboard analyzing product performance, regional sales, and revenue trends for a fictional retail company.
 
-## 🔗 Live Demo
-[Coming soon - will add after deployment]
 
 ## 🛠️ Tech Stack
 Python, Pandas, PostgreSQL, Plotly, Streamlit
